@@ -1,0 +1,9 @@
+# My test 3!!!
+I setup1.inc
+> rm g.txt
+<<<
+> commit "I removed the file g.txt!"
+<<<
+> branch other
+<<<
+I status3.inc

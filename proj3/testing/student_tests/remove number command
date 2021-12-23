@@ -1,0 +1,2 @@
+sed -ri 's/^.*\. //' ec-test12-bad-remotes-err.in
+py tester.py --verbose --show=1 student_tests/ec-test12-bad-remotes-err.in
